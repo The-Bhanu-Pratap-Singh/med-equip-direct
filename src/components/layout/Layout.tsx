@@ -1,4 +1,5 @@
 import { Header } from "./Header";
+import { FloatingWhatsAppButton } from "@/components/WhatsAppButton";
 import { Footer } from "./Footer";
 
 interface LayoutProps {
